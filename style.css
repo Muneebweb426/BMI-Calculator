@@ -1,0 +1,28 @@
+body {
+    background-color: #717171;
+    font-size: 43px;
+    margin: 94px;
+}
+
+
+button {
+    font-size: 50px;
+    font-weight: bold;
+    align-items: center;
+    margin-left: 503px;
+
+}
+
+input[type="text"] {
+    width: 200px;
+    height: 33px;
+    font-size: 20px;
+
+
+}
+
+#result {
+    margin-top: 20px;
+    color: antiquewhite;
+    /* margin-left: 403px; */
+}
